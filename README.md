@@ -1,8 +1,39 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Norganizer
 
-Currently, two official plugins are available:
+A small application that uses nodes to organize tasks, teams and even personal goals.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Authors
+
+- [@furkancodes](https://www.github.com/furkancodes)
+
+
+## Tech Stack
+
+React, TailwindCSS, HeadlessUI, React Flow, Vite
+
+
+
+## Deployment
+
+To deploy this project run
+
+```bash
+  npm install
+  npm run dev
+```
+
+
+## Roadmap
+
+- Switching drag and drop api
+
+- Support for mobile touch screen
+
+- Adding customization to each node while creating
+- Emoji support, rank support, title support
+
+- Switching to a better state management tool
+
+- Better user customization 
