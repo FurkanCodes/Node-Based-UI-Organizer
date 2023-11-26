@@ -5,7 +5,6 @@ A small application that uses nodes to organize tasks, teams and even personal g
 
 ## Demo
 
-Insert gif or link to demo
 
 https://node-based-ui-organizer.vercel.app/
 
